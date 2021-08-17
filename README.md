@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prosper6268
+- 👋 Hi, I’m @obayangbon prosper
 - 👀 I’m interested in advancing my programming skill
 - 🌱 I’m currently learning javà programming ...
 - 💞️ I’m looking to collaborate on other programmers
